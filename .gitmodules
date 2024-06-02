@@ -1,0 +1,6 @@
+[submodule "improved-diffusion"]
+	path = improved-diffusion
+	url = https://github.com/chenchen-usyd/AMG-iddpm.git
+[submodule "stable-diffusion"]
+	path = stable-diffusion
+	url = https://github.com/chenchen-usyd/AMG-sd.git
